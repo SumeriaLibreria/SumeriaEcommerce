@@ -34,6 +34,6 @@ $config = array (
   ),
   'output_dir' => '/home/customer/www/cindyl23.sg-host.com/public_html/wp-content/cache/sgo-cache/',
   'logged_in_cache' => 0,
-  'cache_secret_key' => 'a874974fda70b6dffab19175a6ea8a4d',
+  'cache_secret_key' => '7a0ea6264e3e7a8270b30469f1561ccd',
   'logged_in_cookie' => 'wordpress_logged_in_36cbe4de29d9de91087c878f2aa46b37',
 );
